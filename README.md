@@ -31,7 +31,7 @@ Our project contains this feature
 <li>For nicely designed the environment we use grass texture, sky texture, and tiles texture.</li>
 </list>
 </p>
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/Dmg5YN6fIJE)
+[![ScreenShot](https://github.com/Nayeem170/Shohid-Minar-OpenGL-C-project-/blob/master/ShohidMinar/thumbeline.png)](https://youtu.be/Dmg5YN6fIJE)
 <b>Unique:</b>
 <p>
 Our project something like put all together. We learning some basic from OpenGL and then we try to
